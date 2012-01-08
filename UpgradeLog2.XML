@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CCDesktop1116">
+</Property><Property Name="Solution File" Value="C:\Users\Archie\Desktop\软件工程提高班\project\team\CCDesktop\CCDesktop1116.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Archie\Desktop\软件工程提高班\project\team\CCDesktop\CCDesktop1116.suo">
+</Property><Property Name="Date" Value="Saturday, January 07, 2012">
+</Property><Property Name="Time" Value="19:13 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CCDesktop1116.sln" Description="File successfully backed up as C:\Users\Archie\Desktop\软件工程提高班\project\team\CCDesktop\Backup1\CCDesktop1116.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CCDesktop1116.suo" Description="File successfully backed up as C:\Users\Archie\Desktop\软件工程提高班\project\team\CCDesktop\Backup1\CCDesktop1116.suo">
+</Event><Event ErrorLevel="2" Project="" Source="CCDesktop1116.sln" Description="Solution file 'C:\Users\Archie\Desktop\软件工程提高班\project\team\CCDesktop\CCDesktop1116.sln' cannot be converted because it is read-only on disk. To convert the solution, change the permissions on the solution file to allow modification and re-open it.">
+</Event><Event ErrorLevel="3" Project="" Source="CCDesktop1116.sln" Description="Not Converted">
+</Event></UpgradeLog>
